@@ -1,0 +1,175 @@
+
+
+
+
+*{margin:0; padding: 0;}
+body
+{
+  font-family:'Lato';
+  text-align: center;
+}
+
+#one
+{
+
+
+    background-image:url('Layer8.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+     color:#ffffff;
+}
+
+#three
+{
+     background-image:url('Layer 4.png');
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     color:#ffffff;
+}
+
+.content{
+border-style: solid;
+  border-width: 2px;
+  padding: 50px;
+  margin: auto;
+  width: 50%;
+}
+
+.title
+{
+background-color:#ffffff;
+margin: auto;
+width: 30%;
+margin-bottom: -20px;
+position: relative;
+}
+
+.banner
+{
+  padding: 80px;
+  margin: auto;
+}
+.footer
+{
+  padding: 50px;
+}
+
+.content h2,p,img
+{
+  padding: 20px;
+}
+img
+{
+  display: inline-block;
+}
+
+.banner .b1
+{
+  background-image:url('b1.png');
+  background-size: 100% 100%;
+  height: 237px;
+  position: relative;
+  border: 5px solid #fff;
+  color: #ffffff;
+}
+.banner .b1 h3{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  font-size: 33.93px;
+  font-weight: 700;
+}
+
+.banner .b2
+{
+  background-image:url('b2.png');
+  background-size: 100% 100%;
+  height: 237px;
+  position: relative;
+  border: 5px solid #fff;
+  color: #ffffff;
+}
+.banner .b2 h3{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  font-size: 33.93px;
+  font-weight: 700;
+}
+.banner .b3
+{
+  background-image:url('b3.png');
+  background-size: 100% 100%;
+  height: 237px;
+  position: relative;
+  border: 5px solid #fff;
+  color: #ffffff;
+}
+.banner .b3 h3{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  font-size: 33.93px;
+  font-weight: 700;
+
+}
+.banner .b4
+{
+  background-image:url('b4.png');
+  background-size: 100% 100%;
+  height: 237px;
+  position: relative;
+  border: 5px solid #fff;
+  color: #ffffff;
+}
+.banner .b4 h3{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  font-size: 33.93px;
+  font-weight: 700;
+}
+.banner .b5
+{
+  background-image:url('b5.png');
+  background-size: 100% 100%;
+  height: 237px;
+  position: relative;
+  border: 5px solid #fff;
+  color: #ffffff;
+}
+.banner .b5 h3{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  font-size: 33.93px;
+  font-weight: 700;
+}
+.banner .b6
+{
+  background-image:url('b6.png');
+  background-size: 100% 100%;
+  height: 237px;
+  position: relative;
+  border: 5px solid #fff;
+  color: #ffffff;
+}
+.banner .b6 h3{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  font-size: 33.93px;
+  font-weight: 700;
+}
+.butt
+{
+  width: 391px;
+  height: 54px;
+  color: #ffffff;
+  background-color: #3c3c3c;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 2px;
+  border-color:  #3c3c3c;
+}
